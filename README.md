@@ -10,7 +10,7 @@ The dashboard helps stakeholders understand revenue distribution, profitability 
 
 ## 📊 Dashboard Preview
 
-<img src="C:\Users\LENOVO\Pictures\Superstore-dataset-image.png" width="1000"/>
+<img src="Superstore-dataset-image.png" width="1000"/>
 
 ---
 
